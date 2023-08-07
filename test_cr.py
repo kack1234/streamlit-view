@@ -1,6 +1,6 @@
 # requests와 BeautifulSoup 패키지를 불러옵니다.
-import requests
-from bs4 import BeautifulSoup
+#import requests
+#from bs4 import BeautifulSoup
 
 # 웹 사이트의 URL을 변수에 저장합니다.
 url = "https://www.apple.com/kr/shop/refurbished/ipad"
