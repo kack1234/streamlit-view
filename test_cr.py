@@ -1,4 +1,5 @@
 # requests와 BeautifulSoup 패키지를 불러옵니다.
+import streamlit as st
 import requests
 from bs4 import BeautifulSoup
 
